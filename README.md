@@ -23,7 +23,7 @@ To use `flo` you must have Ruby 2.0 or higher.
 
 #### Download flo
 
-    wget -c https://github.com/yeban/flo/archive/master.tar.gz -O flo.tar.gz
+    wget -c https://github.com/wurmlab/flo/archive/master.tar.gz -O flo.tar.gz
     tar xvf flo.tar.gz
     mv flo-master flo
     cd flo
